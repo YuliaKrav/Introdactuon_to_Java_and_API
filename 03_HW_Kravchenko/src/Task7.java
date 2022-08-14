@@ -3,7 +3,7 @@ import java.util.Arrays;
 //    7.	На шахматной доске расставить 8 ферзей так, чтобы они не били друг друга.
 public class Task7 {
 
-    private static int boardSize = 8;
+    private static int boardSize = 9;
     private static int countSolves = 0;
 
     public static void main(String[] args) {
